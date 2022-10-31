@@ -1,0 +1,93 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo img {
+    width: 76px;
+    height: 72px;
+    margin-left: 371px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.logo h1 {
+    margin-left: 470px;
+    margin-top: -55px;
+    font-size: 30px;
+}
+
+.cabecalho {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecalho ul li {
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+
+.cabecalho a {
+    text-decoration: none;
+    color: black;
+}
+
+.pt2 {
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pt2 img {
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+
+.pt2 p {
+    font-size: 20px;
+}
+
+.pt3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pt3 button {
+    margin-left: 200px;
+    background-color: #7472E0;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.pt3 h2 {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.pt4 {
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pt4 h3 {
+    font-size: 23px;
+}
+
+.pt4 h1 {
+    margin-left: 700px;
+    margin-top: -300px;
+    font-size: 35px;
+}
+
+.pt4 p {
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 25px;
+}
